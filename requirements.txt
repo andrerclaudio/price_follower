@@ -1,1 +1,3 @@
 pytictoc
+requests
+beautifulsoup4
